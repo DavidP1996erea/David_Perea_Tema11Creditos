@@ -1,0 +1,3 @@
+Código: 10800 Nombre: prueba1 PrimerApellido: idk SegundoApellido: rojo Saldo: 0 IngresosMedio: 31 GastosMedios: 9562
+Código: 10900 Nombre: prueba2 PrimerApellido: Perea SegundoApellido: verde Saldo: 0 IngresosMedio: 31 GastosMedios: 9562
+Código: 11000 Nombre: prueba3 PrimerApellido: Garcia SegundoApellido: asu Saldo: 0 IngresosMedio: 31 GastosMedios: 9562

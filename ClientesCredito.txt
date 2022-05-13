@@ -1,0 +1,1 @@
+Código: 11200 Nombre: PruebadeCredito PrimerApellido: jorge SegundoApellido: Yellow Saldo: -2502 IngresosMedio: 74 GastosMedios: 9562

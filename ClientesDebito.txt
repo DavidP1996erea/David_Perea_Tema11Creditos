@@ -1,0 +1,1 @@
+Código: 4800 Nombre: Jorge PrimerApellido: Blazquez SegundoApellido: Lozano Saldo: 435 IngresosMedio: 1470 GastosMedios: 2083
